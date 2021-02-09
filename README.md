@@ -1,5 +1,5 @@
 <h1 align="center">GOSTACK 11 DESAFIO 10 :zap:</h1>
-<h1 align="center">Relacionamento com banco de dados Node.js :rocket:</h1>
+<h1 align="center">Web e CRUD :rocket:</h1>
 
 <img alt="GoStack" src="https://storage.googleapis.com/golden-wind/bootcamp-gostack/header-desafios.png" />
 
@@ -7,7 +7,7 @@
 
 ## 💻 Sobre o projeto
 
-#### Desafio 10: Relacionamentos com banco de dados no Node.js
+#### Desafio 10: Web e CRUD
 
 <blockquote>
     Nesse desafio, foi desenvolvido mais uma aplicação, a GoRestaurant, para praticar conceitos do React.js junto com TypeScript, praticando o conceito de CRUD (Create, Read, Update, Delete).</blockquote>
